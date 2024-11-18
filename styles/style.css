@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 50px;
+}
+
+.container {
+  max-width: 1300px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.discover {
+  min-width: 286px;
+  max-width: 286px;
+  margin-right: 83px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 33px;
+}
+
+.card {
+  width: 286px;
+}
+
+section {
+  display: flex;
+}
+
+.discover h4 {
+  color: #636060;
+  font-size: 17px;
+  margin-bottom: 9px;
+}
+
+.discover h2 {
+  color: #010101;
+  font-size: 28px;
+  margin-bottom: 36px;
+}
+
+.discover p {
+  font-size: 20px;
+  color: #636060;
+}
+
+.card h2 {
+  font-size: 19px;
+  color: #343232;
+  margin-bottom: 9px;
+}
+
+.card p {
+  font-size: 18px;
+  color: #636060;
+}
+
+.card img {
+  width: 100%;
+  margin-bottom: 23px;
+}
